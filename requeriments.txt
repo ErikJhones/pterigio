@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+numpy
+keras
+sklearn
+matplotlib
+jupyter notebook
